@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Uploaded user files - never commit
+uploadFiles/
+uploads/
+
+# Local backups / editor files
+backup/
+*.bak*
+.vscode/
+.idea/

@@ -8,7 +8,7 @@ Run one command on a PC, open `http://<that-pc-ip>:6969/` from any phone, tablet
 ![Flask](https://img.shields.io/badge/Flask-3.x-black)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-realtime-010101)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20iOS-lightgrey)
 
 <!-- Add your screenshots / demo GIF here (see docs/screenshots) -->
 <p align="center">

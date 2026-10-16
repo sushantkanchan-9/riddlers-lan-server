@@ -1,4 +1,4 @@
-# 🕵️ Riddler's LAN Share
+# 🕵️ Riddler's LAN Server
 
 **Share files and chat with every device on your Wi‑Fi / LAN — from a single Python file. No login, no cloud, no app to install on the other devices.**
 
